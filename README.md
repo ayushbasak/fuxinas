@@ -18,4 +18,7 @@ While using this app, your phone might slow down, it might heat up, your battery
 *Compatible with Android 5.1 and above. No, like seriously, who th uses KitKat anyways* 
 Although there's absolutely no possibility that there will be a next version.
 
+#### Here's a screenshot:
+![screenshot did not load.. hmmmmmmm](extra/img.png)
+
 Enjoy! 🤡
